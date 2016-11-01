@@ -1,0 +1,15 @@
+{
+  "name": "cucumber-js-stdout-bug",
+  "version": "1.0.0",
+  "description": "cucumber js stdout bug",
+  "main": "index.js",
+  "scripts": {
+    "stdout": "node ./node_modules/.bin/cucumber-js --format json",
+    "file": "node ./node_modules/.bin/cucumber-js --format json:output.json"
+  },
+  "author": "Domenic M Matesic",
+  "license": "ISC",
+  "dependencies": {
+    "cucumber": "^1.3.1"
+  }
+}

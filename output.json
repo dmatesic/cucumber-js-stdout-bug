@@ -1,0 +1,197 @@
+[
+  {
+    "elements": [
+      {
+        "id": "scenario-outline-test;test",
+        "keyword": "Scenario",
+        "line": 11,
+        "name": "Test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I am a user",
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "A is 1",
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "B should be 5",
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "id": "scenario-outline-test;test",
+        "keyword": "Scenario",
+        "line": 12,
+        "name": "Test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I am a user",
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "A is 2",
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "B should be 4",
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "id": "scenario-outline-test;test",
+        "keyword": "Scenario",
+        "line": 13,
+        "name": "Test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I am a user",
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "A is 3",
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "B should be 3",
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "id": "scenario-outline-test;test",
+        "keyword": "Scenario",
+        "line": 14,
+        "name": "Test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I am a user",
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "A is 4",
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "B should be 2",
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "id": "scenario-outline-test;test",
+        "keyword": "Scenario",
+        "line": 15,
+        "name": "Test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I am a user",
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "A is 5",
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "B should be 1",
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "scenario-outline-test",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Scenario outline test",
+    "tags": [],
+    "uri": "/Users/domenic.matesic/development/personal/cucumber-js-stdout-bug/features/test.feature"
+  }
+]
